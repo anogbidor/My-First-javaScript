@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background: url("https://images.pexels.com/photos/2347303/pexels-photo-2347303.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center center fixed;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFFF;
+
+}
+h1{
+margin: 20px 0 5px ;
+font-size: bold;
+}
+
+
+h2{
+font-size: 50px;
+margin: 0 50px 15px;
+}
